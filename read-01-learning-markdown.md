@@ -2,9 +2,9 @@
 ### So, you want to learn about Markdown
 Let's start with the basics. Markdown is a simple and popular markup language that helps you add formatting elements to plaintext text documents. You can use Markdown in a number of ways. It's an easy way to:
 
-1. take notes
-2. create content for a website
-3. produce print-ready documents
+1. Take notes
+2. Create content for a website
+3. Produce print-ready documents
 
 ### Headers
 
