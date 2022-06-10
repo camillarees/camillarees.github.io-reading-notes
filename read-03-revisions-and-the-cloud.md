@@ -73,25 +73,20 @@ Files in Git resides in 3 main states:
 ### Mac OS X
 
 1. Terminal (simplest on Mac)
-2. Git Website
-  - Use link: http://git-scm.com/download/mac
-3. GitHub
-  - Install Git as part of the GitHub for Mac install: http://mac.github.com
+2. Git Website: Use link: http://git-scm.com/download/mac
+3. GitHub: Install Git as part of the GitHub for Mac install: http://mac.github.com
 
 ### Windows
 
-1. Git Website
-  - Use link: http://git-scm.com/download/win
-2. GitHub
-  - Install Git as part of the GitHub for Windows install: http://windows.github.com
+1. Git Website: Use link: http://git-scm.com/download/win
+2. GitHub: Install Git as part of the GitHub for Windows install: http://windows.github.com
 
 ### Linux
 
 1. Package Manager
   - Fedora: $ sudo yum install git
   - Ubuntu: $ sudo apt-get install git
-2. Git Website
-  - Use link: http://git-scm.com/download/linux
+2. Git Website: Use link: http://git-scm.com/download/linux
 
 ### Graphical Clients
 
