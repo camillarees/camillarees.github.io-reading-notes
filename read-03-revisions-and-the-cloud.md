@@ -36,8 +36,7 @@ A single server system that:
 
 1. Git relies on local operations which:
   - Allows for process expediency because a project’s history resides on the local disk
-  - Eliminates the need to fetch history information from the server
-     - This allows continued work on a project when not online or on a VPN.
+  - Eliminates the need to fetch history information from the server so you can keep working on a project when not online or on a VPN
 
 **Tracking Changes**
 
@@ -63,8 +62,7 @@ Files in Git resides in 3 main states:
 
 ### Download Git
 
-- Make sure you get the latest version of it
-- Make sure your computer has Git available
+-  Make sure your computer has Git available and that you get the latest version 
 
 **Git can be installed in 3 ways:**
 
@@ -105,8 +103,7 @@ Access a variety of GUI clients for Mac, Windows, and Linux: https://git-scm.com
 
 ### Initial Customization
 
-After Git is installed:
-- Perform customization steps which should only need to be completed once 
+After Git is installed: Perform customization steps  
 
 **Configuration of Variables**
 
@@ -177,9 +174,7 @@ $ git commit -m “any message here”
 
 ### Cloning
 
-To create a copy of an existing Git repository from a particular server, use the clone command with a repository’s URL: $ git clone https://github.com/test
-
-"test" will have copies of all versions of all files for the specified project
+To make a copy of a Git repository from a server, use the clone command with a repository’s URL: $ git clone https://github.com/test
 
 Clone a repository into a directory with another name by using command format: $ git clone https://github.com/test mydirectory
 
