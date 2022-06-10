@@ -74,8 +74,8 @@ manager, a compiler, and a debugger all in one software package
 - Command are stored in a history
 - Traverse this history using the up and down arrow keys
 - Edit these commands using the left and right arrow keys to move the cursor
-- ~ (tilde): Shortcut for your home director
-- . (dot): Reference to your current directory. 
+- ~ (tilde): Shortcut for your home directory
+- . (dot): Reference to your current directory
 - .. (dotdot) Reference to the parent directory
 
 ## Basic Navigation
