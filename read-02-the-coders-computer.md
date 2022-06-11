@@ -113,6 +113,6 @@ A path is a means to get to a particular file or directory on the system
 
 - file.exe - an executable file, or program
 - file.txt - a plain text file
-- file.png, file.gif, file.jpg - an image.
+- file.png, file.gif, file.jpg - an image
 
 
