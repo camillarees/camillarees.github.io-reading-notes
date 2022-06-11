@@ -8,16 +8,14 @@
 
 Understand audience through:
 - User research
-- Detailing requirements
-- Creating user personas and defining use cases
-- Running an analysis of competitors
-- UX trends and best practises
-- Reviewing internal design guidelines
+- User personas and defining use cases
+- Analysis of competitors
+- UX trends and best practices
 
 **2. Prepare research for quick reference**
 
-- Keep a quick reference of:
-- Business and user goals,
+Keep a quick reference of:
+- Business and user goals
 - Your personas
 - Use cases
 
@@ -34,7 +32,7 @@ Allows users to be self-sufficient through streamlined information and clear, gu
 Outline the basics (skeleton of desighn)
 
 **Consider:**
-- How can you organize the content to support your users’ goals?
+- How can you organize the content to support the users’ goals?
 - Which information/messages should be most prominent?
 - What should the user see first when arriving at the page?
 - What will the user expect to see on certain areas of the page?
@@ -63,7 +61,7 @@ Meaning of a piece of code — for example "what effect does running that line o
 Semantic elements breath life into code. They exist for both the coder and user, but mostly the coder. They help us define and organize code as simply as possible. They help us understand what piece of code is doing what for the web page.
 
 **Benefits of writing semantic markup:**
-- Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+- Search engines will consider its contents as important keywords to influence the page's search rankings
 - Screen readers can use it as a signpost to help visually impaired users navigate a page
 - Easier to find meaningful code
 - Suggests to the developer the type of data that will be populated
@@ -71,13 +69,14 @@ Semantic elements breath life into code. They exist for both the coder and user,
 
 **Consider:**
 1. "What element(s) best describe/represent the data that I'm going to populate?" 
-  - Is it a list of data?; ordered, unordered?
-  - Is it an article with sections and an aside of related information?; does it list out definitions?
+  - Is it a list of data? Ordered, unordered?
+  - Is it an article with sections and an aside of related information? Does it list out definitions?
   - Is it a figure or image that needs a caption?
   - Should it have a header and a footer in addition to the global site-wide header and footer?
 
 **Basic Semantic Elements**
 
+```
 <article>
 <aside>
 <details>
@@ -91,4 +90,5 @@ Semantic elements breath life into code. They exist for both the coder and user,
 <section>
 <summary>
 <time>
+```
 
