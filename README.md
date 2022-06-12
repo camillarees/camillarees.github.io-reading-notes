@@ -8,4 +8,4 @@
 
 ### My name is Camilla Rees (she/her) and I live in Utah (Mountain Standard Time). I have a bachelor’s of science in family science and several years of experience in nonprofit management and marketing. I also love spending time outdoors with my husband, daughter, and our dog! 🐶
 
-View my portfolio page here: https://github.com/camillarees
+[View my portfolio page here:] (https://github.com/camillarees)
