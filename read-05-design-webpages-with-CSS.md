@@ -2,11 +2,9 @@
 
 ## A Basic Introduction into CSS
 
-CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language.
+### What is CSS?
 
-In the Introduction to HTML module, we covered what HTML is and how it is used to mark up documents. These documents will be readable in a web browser. Headings will look larger than regular text, paragraphs break onto a new line and have space between them. Links are colored and underlined to distinguish them from the rest of the text. What you are seeing are the browser's default styles — very basic styles — that the browser applies to HTML to make sure that the page will be basically readable even if no explicit styling is specified by the author of the page.
-
-### What is CSS for?
+(Cascading Style Sheets) is the language of web **design** and allows you to add styles, layouts, etc. to websites. It's the language of web design
 
 CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 A document is usually a text file structured using a markup language — HTML is the most common markup language, but you may also come across other markup languages such as SVG or XML.
