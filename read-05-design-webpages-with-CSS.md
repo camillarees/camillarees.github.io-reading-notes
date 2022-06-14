@@ -32,31 +32,15 @@ A "Backgrounds and Borders module" would include definitions of background-color
 
 1. External CSS
 2. Internal CSS
-3. Inline CSS
 
 An external style sheet (external CSS) allows you to change the look of an entire website by changing just one file!
 Each HTML page must include a reference to the external style sheet file inside the link element, inside the head section.
 
 For example, external styles are defined within the link element, inside the head section of an HTML page:
 
-```
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
-<body>
+An external style sheet can be written in any text editor, but don't forget to save it as a .css! Without the .css extension, it won't present as a .css should. 
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-```
-
-An external style sheet can be written in any text editor, and must be saved with a .css extension.
-The external .css file should not contain any HTML tags.
-Here is how the "mystyle.css" file looks:
+Here's an example of an external "mystyle.css" file:
 
 ```
 "mystyle.css"
@@ -70,10 +54,9 @@ h1 {
 }
 ```
 
-Internal CSS, An internal style sheet may be used if one single HTML page has a unique style.
-The internal style is defined inside the style element, inside the head section.
+An internal style sheet (internal CSS) might be used if a single HTML page has a unique style. The internal style is defined inside the style element, inside the head section.
 
-For example, internal styles are defined within the style element, inside the <head> section of an HTML page:
+Internal styles are defined within the style element, inside the <head> section of an HTML page. Here's what this might look like:
     
 ```
 <!DOCTYPE html>
@@ -98,24 +81,6 @@ h1 {
 </body>
 </html>
 ```
-
-Inline CSS, an inline style may be used to apply a unique style for a single element.
-To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
-For example, inline styles are defined within the "style" attribute of the relevant element:
-    
-```
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1 style="color:blue;text-align:center;">This is a heading</h1>
-<p style="color:red;">This is a paragraph.</p>
-
-</body>
-</html>
-```
-
-An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
 
 ### Color Properties
 
