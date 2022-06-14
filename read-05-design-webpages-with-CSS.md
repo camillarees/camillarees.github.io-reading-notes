@@ -34,10 +34,10 @@ A "Backgrounds and Borders module" would include definitions of background-color
 2. Internal CSS
 3. Inline CSS
 
-External CSS, With an external style sheet, you can change the look of an entire website by changing just one file!
-Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
+An external style sheet (external CSS) allows you to change the look of an entire website by changing just one file!
+Each HTML page must include a reference to the external style sheet file inside the link element, inside the head section.
 
-For example, external styles are defined within the <link> element, inside the <head> section of an HTML page:
+For example, external styles are defined within the link element, inside the head section of an HTML page:
 
 ```
 <!DOCTYPE html>
@@ -68,12 +68,12 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
-```'
+```
 
 Internal CSS, An internal style sheet may be used if one single HTML page has a unique style.
-The internal style is defined inside the <style> element, inside the head section.
+The internal style is defined inside the style element, inside the head section.
 
-For example, internal styles are defined within the <style> element, inside the <head> section of an HTML page:
+For example, internal styles are defined within the style element, inside the <head> section of an HTML page:
     
 ```
 <!DOCTYPE html>
