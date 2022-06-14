@@ -28,7 +28,7 @@ A CSS Module is a CSS file that defines class and animation names that are scope
 A "Backgrounds and Borders module" would include definitions of background-color and border-color properties. Pretty self-explanitory huh?
 
 
-### The 3 Ways to Add CSS
+### Ways to Add CSS
 
 1. External CSS
 2. Internal CSS
@@ -36,51 +36,13 @@ A "Backgrounds and Borders module" would include definitions of background-color
 An external style sheet (external CSS) allows you to change the look of an entire website by changing just one file!
 Each HTML page must include a reference to the external style sheet file inside the link element, inside the head section.
 
-For example, external styles are defined within the link element, inside the head section of an HTML page:
+For example, external styles are defined within the **link** element, inside the **head** section of an HTML page.
 
 An external style sheet can be written in any text editor, but don't forget to save it as a .css! Without the .css extension, it won't present as a .css should. 
 
-Here's an example of an external "mystyle.css" file:
-
-```
-"mystyle.css"
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
-```
-
 An internal style sheet (internal CSS) might be used if a single HTML page has a unique style. The internal style is defined inside the style element, inside the head section.
 
-Internal styles are defined within the style element, inside the <head> section of an HTML page. Here's what this might look like:
-    
-```
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: linen;
-}
-
-h1 {
-  color: maroon;
-  margin-left: 40px;
-} 
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-```
+Internal styles are defined within the **style** element, inside the **head** section of an HTML page. 
 
 ### Color Properties
 
