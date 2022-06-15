@@ -24,4 +24,15 @@ This is the fun part. Once our variables are defined. We can reference it in our
 
 For example, let's say name = Camilla. Name is my variable, Camilla is my value.
 
-Now, if we want
+We can code
+
+let **name = Camilla**
+To use the variable in a JavaScript function, we can code
+
+document.write(**name** + " is a great name!");
+
+and we will get on the rendered live site
+
+**Camilla** is a great name!
+
+Amazing!
