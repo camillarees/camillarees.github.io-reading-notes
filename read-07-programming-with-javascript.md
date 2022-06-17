@@ -8,7 +8,7 @@
 
 ### Defining a Function
 
-- Functiosn are defined with the **function keyword, name, and parentheses ()**, in that order
+- Functions are defined with the **function keyword, name, and parentheses ()**, in that order
 - Function names can contain letters, digits, underscores, and dollar signs (same rules as variables)
 - Parameters (arguments or values) should be in parentheses, separated by commas behave as local variables
 - The code to be executed, by the function, is placed inside curly brackets {}
@@ -18,11 +18,6 @@ Example:
 function name(parameter1, parameter2, parameter3) {
   // code to be executed
 }
-```
-```
-Another Example:
-
-function doSomething(
 ```
 
 ### Invoking a Function
