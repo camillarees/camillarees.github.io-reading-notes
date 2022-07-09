@@ -1,5 +1,7 @@
 # Class 02
 
+These notes cover basic structures, definitions and key elements of HTML, CSS and JavaScript. Without understanding the fundamentals of HTML, CSS, and JavaScripts in order to start creating in our first labs.
+
 ## HTML Fundamentals
 
 1. Why is it important to use semantic elements in our HTML?
@@ -62,4 +64,7 @@ You might use these elements for dates, math, chemistry, etc.
   - Identical or not identical to === !=
                                                             
 4. What is the difference between the logical operator && and ||? && means and, || means or
+                                                            
+## Things I want to know more about
+  - I am interested in learning about the other types of operators. I do as much about logical operators as I want to. I am also interested to know what a bitwise operator is.                        
                                                           
