@@ -1,6 +1,6 @@
 # Class 01
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+Understanding the basic structure and rules of HTML, CSS, and JS will help me be more thoughtful and detailed in my code. If I know the rules better, I can recognize my errors easier.
 
 ## Getting Started
 
@@ -90,6 +90,9 @@ An attribute should have:
 ## What is JavaScript?
 
 1. Describe 2 things that require JavaScript in the Browser?
+        - Displaying user input on the webpage
+        - Completing tasks based on user input
+        
 2. How can you add JavaScript to an HTML document?
   - Through script tags. Example:
   ```
@@ -103,4 +106,5 @@ An attribute should have:
  **Sources:** [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
  
  ## Things I want to know more about
+ I want to learn more about using metadata in HTML to improve SEO. I've never done it before and would like to practice this in real life to see how it actually works and renders.
   
