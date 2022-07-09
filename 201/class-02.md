@@ -8,7 +8,7 @@
 2. How many levels of headings are there in HTML? **6**
 
 3. What are some uses for the sup and sub elements?
-`- Sup is superscript 
+ - Sup is superscript 
  - Sub is subscript
 
 You might use these elements for dates, math, chemistry, etc.
@@ -52,7 +52,7 @@ You might use these elements for dates, math, chemistry, etc.
 ### Conditionals
 
 1. An if statement checks a **condition** and if it evaluates to **true**, then the code block will execute.
-  -
+  
 2. What is the use of an else if?
   - If we want our code to make decisions or have a different output depending on the input, we can use conditionals like else if.
   
