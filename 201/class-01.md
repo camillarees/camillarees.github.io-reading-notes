@@ -71,8 +71,8 @@ footer: <footer>.
 
 ## Semantics
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
-  - <h1> has semantic value as a top level heading, <span> does not and can only be made to *look* like a top level heading.
+1. Why should you use an h1 element over a span element to display a top level heading?
+  - h1 has semantic value as a top level heading, span does not and can only be made to *look* like a top level heading.
   
 2. What are the benefits of using semantic tags in our HTML?
   -  Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
@@ -93,6 +93,3 @@ footer: <footer>.
 
 </script>
   ```
-
-
-## Things I want to know more about
