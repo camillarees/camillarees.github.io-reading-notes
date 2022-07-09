@@ -9,7 +9,7 @@ If the server approves the client's request, the server sends the client a "200 
 The browser assembles the small chunks into a complete web page and displays it to you (the goods arrive at your door — new shiny stuff, awesome!).
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
-  - When browsers send requests to servers for HTML files, those HTML files often contain <link> elements referencing external CSS stylesheets and <script> elements referencing external JavaScript scripts. It's important to know the order in which those files are parsed by the browser as the browser loads the page:
+  - When browsers send requests to servers for HTML files, those HTML files often contain <link> elements referencing external CSS stylesheets and script elements referencing external JavaScript scripts. It's important to know the order in which those files are parsed by the browser as the browser loads the page:
 
 The browser parses the HTML file first, and that leads to the browser recognizing any <link>-element references to external CSS stylesheets and any <script>-element references to scripts.
 As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from <link> elements, and any JavaScript files it has found from <script> elements, and from those, then parses the CSS and JavaScript.
@@ -23,7 +23,6 @@ When you find the image you want, click on the image to get an enlarged view of 
 Right-click the image (Ctrl + click on a Mac), choose Save Image As..., and choose a safe place to save your image. Alternatively, copy the image's web address from your browser's address bar for later use.
  
 Note that most images on the web, including in Google Images, are copyrighted. To reduce your likelihood of violating copyright, you can use Google's license filter. Click on the Tools button, then on the resulting Usage rights option that appears below. You should choose the option Creative Commons licenses.
-
 
 4. How do you create a String vs a Number in JavaScript?
   - A number is created by simply typing a numeric value. For example, 42.
@@ -75,7 +74,7 @@ footer: <footer>.
   - h1 has semantic value as a top level heading, span does not and can only be made to *look* like a top level heading.
   
 2. What are the benefits of using semantic tags in our HTML?
-  -  Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+  - Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
   - Screen readers can use it as a signpost to help visually impaired users navigate a page
   - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
   - Suggests to the developer the type of data that will be populated
