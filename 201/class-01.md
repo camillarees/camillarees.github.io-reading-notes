@@ -52,23 +52,47 @@ An attribute value, wrapped with opening and closing quote marks.
   - The <section> tag defines a section in a document. The <article> tag specifies independent, self-contained content.
   
 4. What Elements does a “typical” website include?
+  - header: <header>.
+navigation bar: <nav>.
+main content: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
+sidebar: <aside>; often placed inside <main>.
+footer: <footer>.
+
 5. How does metadata influence Search Engine Optimization?
 6. How is the <meta> HTML tag used when specifying metadata?
   
 ## How to start to design a website
 
-What is the first step to designing a Website?
-What is the most important question to answer when designing a Website?
+1. What is the first step to designing a Website?
+  - Project Ideation: Define what you want to accomplish
+
+2. What is the most important question to answer when designing a Website?
+  - What exactly do I want to accomplish? List your goals and prioritize them.
 
 ## Semantics
 
-Why should you use an <h1> element over a <span> element to display a top level heading?
-What are the benefits of using semantic tags in our HTML?
+1. Why should you use an <h1> element over a <span> element to display a top level heading?
+  - <h1> has semantic value as a top level heading, <span> does not and can only be made to *look* like a top level heading.
+  
+2. What are the benefits of using semantic tags in our HTML?
+  -  Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+  - Screen readers can use it as a signpost to help visually impaired users navigate a page
+  - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+  - Suggests to the developer the type of data that will be populated
+  - Semantic naming mirrors proper custom element/component naming
   
 ## What is JavaScript?
 
-Describe 2 things that require JavaScript in the Browser?
-How can you add JavaScript to an HTML document?
+1. Describe 2 things that require JavaScript in the Browser?
+2. How can you add JavaScript to an HTML document?
+  - Through script tags. Example:
+  ```
+  <script>
+
+  // JavaScript goes here
+
+</script>
+  ```
 
 
 ## Things I want to know more about
