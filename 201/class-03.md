@@ -2,15 +2,28 @@
 
 ## Learn HTML
 
-1. When should you use an unordered list in your HTML document?
+1. When should you use an unordered list in your HTML document? 
+ - For lists that don't require content to be in a particular order. For example:
+ - A shopping list
+
 2. How do you change the bullet style of unordered list items?
-3. When should you use an ordered list vs an unorder list in your HTML document?
+ - type (circle, disc, square)
+
+3. When should you use an ordered list vs an unordered list in your HTML document?
+ - Unordered lists can be used unless the content needs to be in an order like a numbered list. For example:
+ - Step by step instructions
+ - Recipes
+ - Ranked lists
+
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
+ - reversed (puts numbers high to low)
+ - start (changes selected number onward to roman numerals or letters
 
 ## Learn CSS
 
 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-2. List and describe the four parts of an HTML elements box as referred to by the box model.
+ - 
+3. List and describe the four parts of an HTML elements box as referred to by the box model.
 
 ## Learn JS
 
@@ -34,3 +47,5 @@
  
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
 6. Give an example of when a Loop is useful in JavaScript.
+
+## Things I want to know more about
