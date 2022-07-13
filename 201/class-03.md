@@ -1,5 +1,7 @@
 # Class 03
 
+There are so many different pieces and details to know about HTML, CSS and JS. Going to detail on learning the small elements that make up the bigger picture is imprtant to my learning.
+
 ## Learn HTML
 
 1. When should you use an unordered list in your HTML document? 
@@ -36,7 +38,7 @@
 
 1. What data types can you store inside of an Array?
  - Strings, numbers, objects, and even other arrays
- - We can also mix data types in a single array. For example:
+ - We can also mix data types in a single array. Examples:
 ```
 const sequence = [1, 1, 2, 3, 5, 8, 13];
 const random = ['tree', 795, [0, 1, 2]];
@@ -50,7 +52,14 @@ const random = ['tree', 795, [0, 1, 2]];
 ```
 
 3. List five shorthand operators for assignment in javascript and describe what they do.
-4. Read the code below and evaluate the last expression and explain what the result would be and why.
+ - Assignment x =f() 
+ - Remainder Assignment 'x %= f()
+ - Exponentiation Assignment 	'x **= f()
+ - Logical AND Assignment x &&= f()
+ 
+4. Result and explaination of last expression of code below:
+- I believe if this expression was evaluated it would display, 10 false dog, because the parentheses prioritize the order in which the expression is evaluated.
+
 ```
  let a = 10;
  let b = 'dog';
@@ -59,11 +68,17 @@ const random = ['tree', 795, [0, 1, 2]];
  // evaluate this
  (a + c) + b;
 ```
- 
+
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+ - Conditionals are used to make decisions in your code. A real world example might be only allowing access of a webpage to certain users. You could use a conditional statement to allow access as long as the correct username and password has been entered.
+
 6. Give an example of when a Loop is useful in JavaScript.
+ - A loop can be useful when you need a task to repeat over and over again. Building on my example in the previous question, you could use a while loop to repeat the same question until the correct info is entered.
 
 ## Things I want to know more about
+
+The people array. I'm not sure if I found the right information on question 2 under **Learn JS**. From what I understnd it works like any other array?
+I'm also confused on question 4 under **Learn JS**. If I'm wrong, I'd love to be corrected!
 
 Sources: [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 
