@@ -57,7 +57,7 @@ const random = ['tree', 795, [0, 1, 2]];
  - Exponentiation Assignment 	'x **= f()
  - Logical AND Assignment x &&= f()
  
-4. Result and explaination of last expression of code below:
+4. Result and explanation of last expression of code below:
 - I believe if this expression was evaluated it would display, 10 false dog, because the parentheses prioritize the order in which the expression is evaluated.
 
 ```
@@ -77,7 +77,7 @@ const random = ['tree', 795, [0, 1, 2]];
 
 ## Things I want to know more about
 
-The people array. I'm not sure if I found the right information on question 2 under **Learn JS**. From what I understnd it works like any other array?
+The people array. I'm not sure if I found the right information on question 2 under **Learn JS**. From what I understand it works like any other array?
 I'm also confused on question 4 under **Learn JS**. If I'm wrong, I'd love to be corrected!
 
 Sources: [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
