@@ -61,6 +61,6 @@ I had no idea that job interview processes could involve pair programming, but i
 
 I'm interested in learning more about CSS layout. I really love design and have so many fun ideas, but not enough knowledge to execute them. I'm interested in multiple column layout and float, I'm going to try them out on my about me page this week!
 
-Sources: [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) [Parameter](https://developer.mozilla.org/en-US/docs/Glossary/Parameter)
+Sources: [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning), [Parameter](https://developer.mozilla.org/en-US/docs/Glossary/Parameter)
 
 
