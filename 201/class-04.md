@@ -2,7 +2,7 @@
 
 ## HTML Links, CSS Layout, JS Functions
 
-
+Learning about links, layout, and functions will directly help me with my labs this week, and help me make my webpages more dynamic.
 
 **Hyperlinks in HTML**
 
