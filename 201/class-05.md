@@ -1,5 +1,7 @@
 # Class 05
 
+Learning how to make a web page accessible is imperative to a create a successful web page that's worth being on the internet. 
+
 ## HTML Media
 
 1. What is a real world use case for the "alt" attribute being used in a website?
