@@ -3,6 +3,8 @@
 ## HTML Media
 
 1. What is a real world use case for the "alt" attribute being used in a website?
+  - "alt" is the text description you give an image. It's best practice to always give an images a clear "alt" description for SEO purposed. But you also never know if there will be a slow internet connection, a visually impaired user using a screen reader, or the browser doesn't support your image type.
+  
 2. How can you improve accessibility of images in an HTML document?
 3. Provide an example of when the "figure" element would be useful in an HTML document.
 4. Describe the difference between a "gif" image and an "svg" image, pretend you are explaining to an elder in your community.
